@@ -5,5 +5,5 @@
 
 <h2>Reference Material</h2>
 <ul>
-  <li> **[Beginner Vanilla Javascript Practice](https://www.youtube.com/watch?v=Ttf3CEsEwMQ&ab_channel=DevEd)** <li>
+  <li> [Beginner Vanilla Javascript Practice](https://www.youtube.com/watch?v=Ttf3CEsEwMQ&ab_channel=DevEd) <li>
 </ul>
